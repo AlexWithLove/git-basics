@@ -9,3 +9,8 @@ Text for merge lessons 2
 Text for merge lessons 2
 Text for merge lessons 2
 Text for merge lessons 2
+
+Text for merge lessons 3
+Text for merge lessons 3
+Text for merge lessons 3
+Text for merge lessons 3
